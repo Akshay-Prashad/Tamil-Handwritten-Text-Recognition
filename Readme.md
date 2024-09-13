@@ -5,7 +5,7 @@ This project builds a machine learning model for recognizing handwritten Tamil c
 <br>
 ## Dataset
 
-The dataset contains 500 examples of each of the 156 Tamil characters. The images are preprocessed by converting to PNG format, resizing to 32x32 pixels, and normalizing pixel values. [Dataset](https://lipitk.sourceforge.net/datasets/tamilchardata.htm)
+This [Dataset](https://lipitk.sourceforge.net/datasets/tamilchardata.htm) contains 500 examples of each of the 156 Tamil characters. The images are preprocessed by converting to PNG format, resizing to 32x32 pixels, and normalizing pixel values. 
 
 ### Dependencies
 ```
