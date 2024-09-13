@@ -8,16 +8,16 @@ This project builds a machine learning model for recognizing handwritten Tamil c
 The dataset contains 500 examples of each of the 156 Tamil characters. The images are preprocessed by converting to PNG format, resizing to 32x32 pixels, and normalizing pixel values.
 
 ### Dependencies
-'''
+```
 pip install -r requirements.txt
-'''
+```
 ### Running the Model
 
-'''
+```
 python main.py
-'''
+```
 
-###Results
+### Results
 The model achieves over 95% accuracy on the test set, showing strong performance in recognizing Tamil handwritten characters.
 
 ### License
