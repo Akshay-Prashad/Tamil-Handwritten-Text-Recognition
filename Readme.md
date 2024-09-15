@@ -18,7 +18,7 @@ python main.py
 ```
 
 ### Results
-The model achieves over 95% accuracy on the test set, showing strong performance in recognizing Tamil handwritten characters.
+The model achieves over 90% accuracy on the test set, showing strong performance in recognizing Tamil handwritten characters.
 
 
 # Contributors
