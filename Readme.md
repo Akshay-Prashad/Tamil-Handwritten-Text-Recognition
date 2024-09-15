@@ -23,8 +23,8 @@ The model achieves over 95% accuracy on the test set, showing strong performance
 
 # Contributors
 
-- [Kamal](@Kamalvenkateswaran)
-- [Aslam](@mohammedaslam19)
+- [Kamal](https://github.com/Kamalvenkateswaran)
+- [Aslam](https://github.com/mohammedaslam19)
 
 ### License
 This project is licensed under the MIT License - see the LICENSE file for details.
