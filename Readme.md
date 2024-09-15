@@ -20,5 +20,11 @@ python main.py
 ### Results
 The model achieves over 95% accuracy on the test set, showing strong performance in recognizing Tamil handwritten characters.
 
+
+# Contributors
+
+- [Kamal](@Kamalvenkateswaran)
+- [Aslam](@mohammedaslam19)
+
 ### License
 This project is licensed under the MIT License - see the LICENSE file for details.
